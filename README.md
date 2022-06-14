@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AikaC
+- 👋 Hi, I’m @AikaC from Brazil🇧🇷
 - 👀 I’m interested in narrative games
-- 🌱 I’m currently learning C#
-- 📫 Reach me on Insta: bugstudiobr
+- 🌱 I’m a artist with basic C# and Python knowledge
+- 📫 Reach me on Insta: deubug_studio
 
 <!---
 AikaC/AikaC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
